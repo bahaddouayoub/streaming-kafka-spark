@@ -1,0 +1,13 @@
+# created by virtualenv automatically
+.ip*
+bin
+data
+datasets
+etc
+gbModel
+lib
+my*
+share
+spark_demo
+Pyspark_*.ipynb
+spark*.zip
