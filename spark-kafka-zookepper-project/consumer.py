@@ -12,7 +12,7 @@ spark = SparkSession.builder.appName('spark-kafka').getOrCreate()
 
 
 
-# initialize list of lists
+# initialize list of lists that we use to create a new pandas dataframe
 data = [[0,0,0,0,0]]
   
 # Create the pandas DataFrame
